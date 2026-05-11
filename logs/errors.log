@@ -1,0 +1,284 @@
+[11-May-2026 12:04:17 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\xampp\htdocs\personal-cms\config.php on line 60
+[11-May-2026 12:04:17 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\xampp\htdocs\personal-cms\config.php on line 61
+2026-05-11 12:04:17 - Error: [2] Use of undefined constant SITE_NAME - assumed 'SITE_NAME' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\personal-cms\includes\header.php on line 13
+2026-05-11 12:04:17 - Error: [2] Use of undefined constant SITE_NAME - assumed 'SITE_NAME' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\personal-cms\includes\header.php on line 18
+2026-05-11 12:04:17 - Error: [2] Use of undefined constant SITE_NAME - assumed 'SITE_NAME' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\personal-cms\includes\header.php on line 25
+2026-05-11 12:04:17 - Error: [2] Use of undefined constant SITE_NAME - assumed 'SITE_NAME' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\personal-cms\includes\header.php on line 41
+2026-05-11 12:04:17 - Error: [2] Use of undefined constant SITE_NAME - assumed 'SITE_NAME' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\personal-cms\includes\header.php on line 50
+2026-05-11 12:04:17 - Error: [8] Undefined variable: pdo in C:\xampp\htdocs\personal-cms\index.php on line 11
+2026-05-11 12:04:17 - Exception: Call to a member function prepare() on null in C:\xampp\htdocs\personal-cms\index.php on line 11
+[11-May-2026 12:06:08 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\xampp\htdocs\personal-cms\config.php on line 60
+[11-May-2026 12:06:08 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\xampp\htdocs\personal-cms\config.php on line 61
+2026-05-11 12:06:08 - Error: [2] Use of undefined constant SITE_NAME - assumed 'SITE_NAME' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\personal-cms\includes\header.php on line 13
+2026-05-11 12:06:08 - Error: [2] Use of undefined constant SITE_NAME - assumed 'SITE_NAME' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\personal-cms\includes\header.php on line 18
+2026-05-11 12:06:08 - Error: [2] Use of undefined constant SITE_NAME - assumed 'SITE_NAME' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\personal-cms\includes\header.php on line 25
+2026-05-11 12:06:08 - Error: [2] Use of undefined constant SITE_NAME - assumed 'SITE_NAME' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\personal-cms\includes\header.php on line 41
+2026-05-11 12:06:08 - Error: [2] Use of undefined constant SITE_NAME - assumed 'SITE_NAME' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\personal-cms\includes\header.php on line 50
+2026-05-11 12:06:08 - Error: [8] Undefined variable: pdo in C:\xampp\htdocs\personal-cms\index.php on line 11
+2026-05-11 12:06:08 - Exception: Call to a member function prepare() on null in C:\xampp\htdocs\personal-cms\index.php on line 11
+[11-May-2026 12:06:09 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\xampp\htdocs\personal-cms\config.php on line 60
+[11-May-2026 12:06:09 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\xampp\htdocs\personal-cms\config.php on line 61
+2026-05-11 12:06:09 - Error: [2] Use of undefined constant SITE_NAME - assumed 'SITE_NAME' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\personal-cms\includes\header.php on line 13
+2026-05-11 12:06:09 - Error: [2] Use of undefined constant SITE_NAME - assumed 'SITE_NAME' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\personal-cms\includes\header.php on line 18
+2026-05-11 12:06:09 - Error: [2] Use of undefined constant SITE_NAME - assumed 'SITE_NAME' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\personal-cms\includes\header.php on line 25
+2026-05-11 12:06:09 - Error: [2] Use of undefined constant SITE_NAME - assumed 'SITE_NAME' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\personal-cms\includes\header.php on line 41
+2026-05-11 12:06:09 - Error: [2] Use of undefined constant SITE_NAME - assumed 'SITE_NAME' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\personal-cms\includes\header.php on line 50
+2026-05-11 12:06:09 - Error: [8] Undefined variable: pdo in C:\xampp\htdocs\personal-cms\index.php on line 11
+2026-05-11 12:06:09 - Exception: Call to a member function prepare() on null in C:\xampp\htdocs\personal-cms\index.php on line 11
+[11-May-2026 12:06:18 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\xampp\htdocs\personal-cms\config.php on line 60
+[11-May-2026 12:06:18 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\xampp\htdocs\personal-cms\config.php on line 61
+[11-May-2026 12:10:10 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\xampp\htdocs\personal-cms\config.php on line 60
+[11-May-2026 12:10:10 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\xampp\htdocs\personal-cms\config.php on line 61
+[11-May-2026 12:11:06 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\xampp\htdocs\personal-cms\config.php on line 60
+[11-May-2026 12:11:06 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\xampp\htdocs\personal-cms\config.php on line 61
+[11-May-2026 12:11:13 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\xampp\htdocs\personal-cms\config.php on line 60
+[11-May-2026 12:11:13 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\xampp\htdocs\personal-cms\config.php on line 61
+[11-May-2026 12:11:20 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\xampp\htdocs\personal-cms\config.php on line 60
+[11-May-2026 12:11:20 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\xampp\htdocs\personal-cms\config.php on line 61
+[11-May-2026 12:11:20 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\xampp\htdocs\personal-cms\config.php on line 60
+[11-May-2026 12:11:20 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\xampp\htdocs\personal-cms\config.php on line 61
+2026-05-11 12:11:20 - Error: [2] Use of undefined constant SITE_NAME - assumed 'SITE_NAME' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\personal-cms\templates\admin-header.php on line 11
+2026-05-11 12:11:20 - Error: [2] Use of undefined constant SITE_NAME - assumed 'SITE_NAME' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\personal-cms\templates\admin-header.php on line 20
+2026-05-11 12:11:20 - Exception: Call to undefined function isActive() in C:\xampp\htdocs\personal-cms\templates\admin-header.php on line 39
+[11-May-2026 12:11:38 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\xampp\htdocs\personal-cms\config.php on line 60
+[11-May-2026 12:11:38 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\xampp\htdocs\personal-cms\config.php on line 61
+2026-05-11 12:11:38 - Error: [2] Use of undefined constant SITE_NAME - assumed 'SITE_NAME' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\personal-cms\includes\header.php on line 13
+2026-05-11 12:11:38 - Error: [2] Use of undefined constant SITE_NAME - assumed 'SITE_NAME' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\personal-cms\includes\header.php on line 18
+2026-05-11 12:11:38 - Error: [2] Use of undefined constant SITE_NAME - assumed 'SITE_NAME' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\personal-cms\includes\header.php on line 25
+2026-05-11 12:11:38 - Error: [2] Use of undefined constant SITE_NAME - assumed 'SITE_NAME' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\personal-cms\includes\header.php on line 41
+2026-05-11 12:11:38 - Error: [2] Use of undefined constant SITE_NAME - assumed 'SITE_NAME' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\personal-cms\includes\header.php on line 50
+2026-05-11 12:11:38 - Error: [8] Undefined variable: pdo in C:\xampp\htdocs\personal-cms\index.php on line 11
+2026-05-11 12:11:38 - Exception: Call to a member function prepare() on null in C:\xampp\htdocs\personal-cms\index.php on line 11
+[11-May-2026 12:11:50 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\xampp\htdocs\personal-cms\config.php on line 60
+[11-May-2026 12:11:50 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\xampp\htdocs\personal-cms\config.php on line 61
+2026-05-11 12:11:50 - Error: [2] Use of undefined constant SITE_NAME - assumed 'SITE_NAME' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\personal-cms\includes\header.php on line 13
+2026-05-11 12:11:50 - Error: [2] Use of undefined constant SITE_NAME - assumed 'SITE_NAME' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\personal-cms\includes\header.php on line 18
+2026-05-11 12:11:50 - Error: [2] Use of undefined constant SITE_NAME - assumed 'SITE_NAME' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\personal-cms\includes\header.php on line 25
+2026-05-11 12:11:50 - Error: [2] Use of undefined constant SITE_NAME - assumed 'SITE_NAME' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\personal-cms\includes\header.php on line 41
+2026-05-11 12:11:50 - Error: [2] Use of undefined constant SITE_NAME - assumed 'SITE_NAME' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\personal-cms\includes\header.php on line 50
+2026-05-11 12:11:50 - Error: [8] Undefined variable: pdo in C:\xampp\htdocs\personal-cms\index.php on line 11
+2026-05-11 12:11:50 - Exception: Call to a member function prepare() on null in C:\xampp\htdocs\personal-cms\index.php on line 11
+[11-May-2026 12:11:51 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\xampp\htdocs\personal-cms\config.php on line 60
+[11-May-2026 12:11:51 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\xampp\htdocs\personal-cms\config.php on line 61
+2026-05-11 12:11:51 - Error: [2] Use of undefined constant SITE_NAME - assumed 'SITE_NAME' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\personal-cms\includes\header.php on line 13
+2026-05-11 12:11:51 - Error: [2] Use of undefined constant SITE_NAME - assumed 'SITE_NAME' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\personal-cms\includes\header.php on line 18
+2026-05-11 12:11:51 - Error: [2] Use of undefined constant SITE_NAME - assumed 'SITE_NAME' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\personal-cms\includes\header.php on line 25
+2026-05-11 12:11:51 - Error: [2] Use of undefined constant SITE_NAME - assumed 'SITE_NAME' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\personal-cms\includes\header.php on line 41
+2026-05-11 12:11:51 - Error: [2] Use of undefined constant SITE_NAME - assumed 'SITE_NAME' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\personal-cms\includes\header.php on line 50
+2026-05-11 12:11:51 - Error: [8] Undefined variable: pdo in C:\xampp\htdocs\personal-cms\index.php on line 11
+2026-05-11 12:11:51 - Exception: Call to a member function prepare() on null in C:\xampp\htdocs\personal-cms\index.php on line 11
+[11-May-2026 12:11:56 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\xampp\htdocs\personal-cms\config.php on line 60
+[11-May-2026 12:11:56 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\xampp\htdocs\personal-cms\config.php on line 61
+[11-May-2026 12:11:58 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\xampp\htdocs\personal-cms\config.php on line 60
+[11-May-2026 12:11:58 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\xampp\htdocs\personal-cms\config.php on line 61
+[11-May-2026 12:11:58 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\xampp\htdocs\personal-cms\config.php on line 60
+[11-May-2026 12:11:58 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\xampp\htdocs\personal-cms\config.php on line 61
+2026-05-11 12:11:58 - Error: [2] Use of undefined constant SITE_NAME - assumed 'SITE_NAME' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\personal-cms\templates\admin-header.php on line 11
+2026-05-11 12:11:58 - Error: [2] Use of undefined constant SITE_NAME - assumed 'SITE_NAME' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\personal-cms\templates\admin-header.php on line 20
+2026-05-11 12:11:58 - Exception: Call to undefined function isActive() in C:\xampp\htdocs\personal-cms\templates\admin-header.php on line 39
+[11-May-2026 12:12:17 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\xampp\htdocs\personal-cms\config.php on line 60
+[11-May-2026 12:12:17 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\xampp\htdocs\personal-cms\config.php on line 61
+2026-05-11 12:12:17 - Error: [2] Use of undefined constant SITE_NAME - assumed 'SITE_NAME' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\personal-cms\templates\admin-header.php on line 11
+2026-05-11 12:12:17 - Error: [2] Use of undefined constant SITE_NAME - assumed 'SITE_NAME' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\personal-cms\templates\admin-header.php on line 20
+2026-05-11 12:12:17 - Exception: Call to undefined function isActive() in C:\xampp\htdocs\personal-cms\templates\admin-header.php on line 39
+[11-May-2026 12:12:20 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\xampp\htdocs\personal-cms\config.php on line 60
+[11-May-2026 12:12:20 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\xampp\htdocs\personal-cms\config.php on line 61
+2026-05-11 12:12:20 - Error: [2] Use of undefined constant SITE_NAME - assumed 'SITE_NAME' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\personal-cms\templates\admin-header.php on line 11
+2026-05-11 12:12:20 - Error: [2] Use of undefined constant SITE_NAME - assumed 'SITE_NAME' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\personal-cms\templates\admin-header.php on line 20
+2026-05-11 12:12:20 - Exception: Call to undefined function isActive() in C:\xampp\htdocs\personal-cms\templates\admin-header.php on line 39
+[11-May-2026 12:12:21 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\xampp\htdocs\personal-cms\config.php on line 60
+[11-May-2026 12:12:21 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\xampp\htdocs\personal-cms\config.php on line 61
+2026-05-11 12:12:21 - Error: [2] Use of undefined constant SITE_NAME - assumed 'SITE_NAME' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\personal-cms\templates\admin-header.php on line 11
+2026-05-11 12:12:21 - Error: [2] Use of undefined constant SITE_NAME - assumed 'SITE_NAME' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\personal-cms\templates\admin-header.php on line 20
+2026-05-11 12:12:21 - Exception: Call to undefined function isActive() in C:\xampp\htdocs\personal-cms\templates\admin-header.php on line 39
+[11-May-2026 12:12:24 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\xampp\htdocs\personal-cms\config.php on line 60
+[11-May-2026 12:12:24 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\xampp\htdocs\personal-cms\config.php on line 61
+2026-05-11 12:12:24 - Error: [2] Use of undefined constant SITE_NAME - assumed 'SITE_NAME' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\personal-cms\templates\admin-header.php on line 11
+2026-05-11 12:12:24 - Error: [2] Use of undefined constant SITE_NAME - assumed 'SITE_NAME' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\personal-cms\templates\admin-header.php on line 20
+2026-05-11 12:12:24 - Exception: Call to undefined function isActive() in C:\xampp\htdocs\personal-cms\templates\admin-header.php on line 39
+[11-May-2026 12:12:31 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\xampp\htdocs\personal-cms\config.php on line 60
+[11-May-2026 12:12:31 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\xampp\htdocs\personal-cms\config.php on line 61
+2026-05-11 12:12:31 - Error: [2] Use of undefined constant SITE_NAME - assumed 'SITE_NAME' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\personal-cms\templates\admin-header.php on line 11
+2026-05-11 12:12:31 - Error: [2] Use of undefined constant SITE_NAME - assumed 'SITE_NAME' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\personal-cms\templates\admin-header.php on line 20
+2026-05-11 12:12:31 - Exception: Call to undefined function isActive() in C:\xampp\htdocs\personal-cms\templates\admin-header.php on line 39
+[11-May-2026 12:12:37 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\xampp\htdocs\personal-cms\config.php on line 60
+[11-May-2026 12:12:37 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\xampp\htdocs\personal-cms\config.php on line 61
+2026-05-11 12:12:37 - Error: [2] Use of undefined constant SITE_NAME - assumed 'SITE_NAME' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\personal-cms\templates\admin-header.php on line 11
+2026-05-11 12:12:37 - Error: [2] Use of undefined constant SITE_NAME - assumed 'SITE_NAME' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\personal-cms\templates\admin-header.php on line 20
+2026-05-11 12:12:37 - Exception: Call to undefined function isActive() in C:\xampp\htdocs\personal-cms\templates\admin-header.php on line 39
+[11-May-2026 12:12:40 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\xampp\htdocs\personal-cms\config.php on line 60
+[11-May-2026 12:12:40 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\xampp\htdocs\personal-cms\config.php on line 61
+2026-05-11 12:12:40 - Error: [2] Use of undefined constant SITE_NAME - assumed 'SITE_NAME' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\personal-cms\includes\header.php on line 13
+2026-05-11 12:12:40 - Error: [2] Use of undefined constant SITE_NAME - assumed 'SITE_NAME' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\personal-cms\includes\header.php on line 18
+2026-05-11 12:12:40 - Error: [2] Use of undefined constant SITE_NAME - assumed 'SITE_NAME' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\personal-cms\includes\header.php on line 25
+2026-05-11 12:12:40 - Error: [2] Use of undefined constant SITE_NAME - assumed 'SITE_NAME' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\personal-cms\includes\header.php on line 41
+2026-05-11 12:12:40 - Error: [2] Use of undefined constant SITE_NAME - assumed 'SITE_NAME' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\personal-cms\includes\header.php on line 50
+2026-05-11 12:12:40 - Error: [8] Undefined variable: pdo in C:\xampp\htdocs\personal-cms\index.php on line 11
+2026-05-11 12:12:40 - Exception: Call to a member function prepare() on null in C:\xampp\htdocs\personal-cms\index.php on line 11
+[11-May-2026 12:13:42 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\xampp\htdocs\personal-cms\config.php on line 60
+[11-May-2026 12:13:42 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\xampp\htdocs\personal-cms\config.php on line 61
+2026-05-11 12:13:42 - Error: [2] Use of undefined constant SITE_NAME - assumed 'SITE_NAME' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\personal-cms\templates\admin-header.php on line 11
+2026-05-11 12:13:42 - Error: [2] Use of undefined constant SITE_NAME - assumed 'SITE_NAME' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\personal-cms\templates\admin-header.php on line 20
+2026-05-11 12:13:42 - Exception: Call to undefined function isActive() in C:\xampp\htdocs\personal-cms\templates\admin-header.php on line 39
+[11-May-2026 12:13:58 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\xampp\htdocs\personal-cms\config.php on line 60
+[11-May-2026 12:13:58 UTC] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in C:\xampp\htdocs\personal-cms\config.php on line 61
+2026-05-11 12:13:58 - Error: [2] Use of undefined constant SITE_NAME - assumed 'SITE_NAME' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\personal-cms\templates\admin-header.php on line 11
+2026-05-11 12:13:58 - Error: [2] Use of undefined constant SITE_NAME - assumed 'SITE_NAME' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\personal-cms\templates\admin-header.php on line 20
+2026-05-11 12:13:58 - Exception: Call to undefined function isActive() in C:\xampp\htdocs\personal-cms\templates\admin-header.php on line 39
+2026-05-11 16:45:34 - Exception: Call to undefined function isActive() in C:\xampp\htdocs\personal-cms\templates\admin-header.php on line 39
+2026-05-11 16:45:35 - Exception: Call to undefined function isActive() in C:\xampp\htdocs\personal-cms\templates\admin-header.php on line 39
+2026-05-11 16:45:39 - Error: [8] Undefined variable: pdo in C:\xampp\htdocs\personal-cms\index.php on line 11
+2026-05-11 16:45:39 - Exception: Call to a member function prepare() on null in C:\xampp\htdocs\personal-cms\index.php on line 11
+2026-05-11 16:45:40 - Error: [8] Undefined variable: pdo in C:\xampp\htdocs\personal-cms\index.php on line 11
+2026-05-11 16:45:40 - Exception: Call to a member function prepare() on null in C:\xampp\htdocs\personal-cms\index.php on line 11
+2026-05-11 16:45:43 - Error: [8] Undefined variable: pdo in C:\xampp\htdocs\personal-cms\index.php on line 11
+2026-05-11 16:45:43 - Exception: Call to a member function prepare() on null in C:\xampp\htdocs\personal-cms\index.php on line 11
+2026-05-11 16:45:43 - Error: [8] Undefined variable: pdo in C:\xampp\htdocs\personal-cms\index.php on line 11
+2026-05-11 16:45:43 - Exception: Call to a member function prepare() on null in C:\xampp\htdocs\personal-cms\index.php on line 11
+2026-05-11 16:45:44 - Error: [8] Undefined variable: pdo in C:\xampp\htdocs\personal-cms\index.php on line 11
+2026-05-11 16:45:44 - Exception: Call to a member function prepare() on null in C:\xampp\htdocs\personal-cms\index.php on line 11
+2026-05-11 16:45:46 - Exception: Call to undefined function isActive() in C:\xampp\htdocs\personal-cms\templates\admin-header.php on line 39
+2026-05-11 16:45:48 - Exception: Call to undefined function isActive() in C:\xampp\htdocs\personal-cms\templates\admin-header.php on line 39
+2026-05-11 16:45:56 - Exception: Call to undefined function isActive() in C:\xampp\htdocs\personal-cms\templates\admin-header.php on line 39
+2026-05-11 16:45:58 - Exception: Call to undefined function isActive() in C:\xampp\htdocs\personal-cms\templates\admin-header.php on line 39
+2026-05-11 16:47:09 - Exception: Call to undefined function isActive() in C:\xampp\htdocs\personal-cms\templates\admin-header.php on line 39
+2026-05-11 16:47:12 - Exception: Call to undefined function isActive() in C:\xampp\htdocs\personal-cms\templates\admin-header.php on line 39
+2026-05-11 16:47:14 - Exception: Call to undefined function isActive() in C:\xampp\htdocs\personal-cms\templates\admin-header.php on line 39
+2026-05-11 16:47:16 - Error: [8] Undefined variable: pdo in C:\xampp\htdocs\personal-cms\index.php on line 11
+2026-05-11 16:47:16 - Exception: Call to a member function prepare() on null in C:\xampp\htdocs\personal-cms\index.php on line 11
+2026-05-11 16:47:17 - Error: [8] Undefined variable: pdo in C:\xampp\htdocs\personal-cms\index.php on line 11
+2026-05-11 16:47:17 - Exception: Call to a member function prepare() on null in C:\xampp\htdocs\personal-cms\index.php on line 11
+2026-05-11 16:47:20 - Exception: Call to undefined function isActive() in C:\xampp\htdocs\personal-cms\templates\admin-header.php on line 39
+2026-05-11 16:48:41 - Exception: Call to undefined function isActive() in C:\xampp\htdocs\personal-cms\templates\admin-header.php on line 39
+2026-05-11 16:52:39 - Exception: Call to undefined function getStatusBadge() in C:\xampp\htdocs\personal-cms\admin\pages.php on line 55
+2026-05-11 16:52:49 - Error: [8] Undefined variable: pdo in C:\xampp\htdocs\personal-cms\index.php on line 11
+2026-05-11 16:52:49 - Exception: Call to a member function prepare() on null in C:\xampp\htdocs\personal-cms\index.php on line 11
+2026-05-11 16:52:52 - Exception: Call to undefined function getStatusBadge() in C:\xampp\htdocs\personal-cms\admin\index.php on line 156
+2026-05-11 16:53:05 - Exception: Call to undefined function getStatusBadge() in C:\xampp\htdocs\personal-cms\admin\index.php on line 156
+2026-05-11 16:53:09 - Exception: Call to undefined function logMessage() in C:\xampp\htdocs\personal-cms\admin\sync-manual.php on line 25
+2026-05-11 16:53:18 - Exception: Call to undefined function getStatusBadge() in C:\xampp\htdocs\personal-cms\admin\index.php on line 156
+2026-05-11 16:53:20 - Exception: Call to undefined function logMessage() in C:\xampp\htdocs\personal-cms\admin\sync-manual.php on line 25
+2026-05-11 17:02:58 - Exception: Call to undefined function getStatusBadge() in C:\xampp\htdocs\personal-cms\admin\pages.php on line 55
+2026-05-11 17:03:09 - Exception: Call to undefined function getStatusBadge() in C:\xampp\htdocs\personal-cms\admin\index.php on line 156
+2026-05-11 17:03:15 - Error: [8] Undefined variable: pdo in C:\xampp\htdocs\personal-cms\index.php on line 11
+2026-05-11 17:03:15 - Exception: Call to a member function prepare() on null in C:\xampp\htdocs\personal-cms\index.php on line 11
+2026-05-11 17:04:09 - Error: [8] Undefined variable: pdo in C:\xampp\htdocs\personal-cms\index.php on line 11
+2026-05-11 17:04:09 - Exception: Call to a member function prepare() on null in C:\xampp\htdocs\personal-cms\index.php on line 11
+2026-05-11 17:06:07 - Exception: Call to undefined function getStatusBadge() in C:\xampp\htdocs\personal-cms\admin\index.php on line 156
+2026-05-11 17:07:44 - Exception: Call to undefined function getStatusBadge() in C:\xampp\htdocs\personal-cms\admin\index.php on line 156
+2026-05-11 17:08:01 - Error: [8] Undefined variable: pdo in C:\xampp\htdocs\personal-cms\projects.php on line 50
+2026-05-11 17:08:01 - Exception: Call to a member function prepare() on null in C:\xampp\htdocs\personal-cms\projects.php on line 50
+2026-05-11 17:08:03 - Error: [8] Undefined variable: pdo in C:\xampp\htdocs\personal-cms\blog.php on line 35
+2026-05-11 17:08:03 - Exception: Call to a member function prepare() on null in C:\xampp\htdocs\personal-cms\blog.php on line 35
+2026-05-11 17:08:03 - Error: [8] Undefined variable: pdo in C:\xampp\htdocs\personal-cms\page.php on line 17
+2026-05-11 17:08:03 - Exception: Call to a member function query() on null in C:\xampp\htdocs\personal-cms\page.php on line 17
+2026-05-11 17:08:44 - Exception: Call to undefined function getStatusBadge() in C:\xampp\htdocs\personal-cms\admin\index.php on line 156
+2026-05-11 17:08:44 - Exception: Call to undefined function getStatusBadge() in C:\xampp\htdocs\personal-cms\admin\index.php on line 156
+2026-05-11 17:08:48 - Exception: Call to undefined function getStatusBadge() in C:\xampp\htdocs\personal-cms\admin\pages.php on line 55
+2026-05-11 17:09:07 - Exception: Call to undefined function getStatusBadge() in C:\xampp\htdocs\personal-cms\admin\index.php on line 156
+2026-05-11 17:09:08 - Exception: Call to undefined function getStatusBadge() in C:\xampp\htdocs\personal-cms\admin\pages.php on line 55
+2026-05-11 17:10:49 - Exception: Call to undefined function getStatusBadge() in C:\xampp\htdocs\personal-cms\admin\pages.php on line 55
+2026-05-11 17:10:51 - Exception: Call to undefined function getStatusBadge() in C:\xampp\htdocs\personal-cms\admin\index.php on line 156
+2026-05-11 17:10:54 - Exception: Call to undefined function getStatusBadge() in C:\xampp\htdocs\personal-cms\admin\pages.php on line 55
+2026-05-11 17:12:25 - Exception: Call to undefined function getStatusBadge() in C:\xampp\htdocs\personal-cms\admin\pages.php on line 55
+2026-05-11 17:12:26 - Exception: Call to undefined function getStatusBadge() in C:\xampp\htdocs\personal-cms\admin\pages.php on line 55
+2026-05-11 17:12:28 - Exception: Call to undefined function getStatusBadge() in C:\xampp\htdocs\personal-cms\admin\pages.php on line 55
+2026-05-11 17:12:29 - Exception: Call to undefined function getStatusBadge() in C:\xampp\htdocs\personal-cms\admin\pages.php on line 55
+2026-05-11 17:12:30 - Exception: Call to undefined function getStatusBadge() in C:\xampp\htdocs\personal-cms\admin\pages.php on line 55
+[11-May-2026 17:13:59 Asia/Tehran] PHP Fatal error:  Cannot redeclare getSettings() (previously declared in C:\xampp\htdocs\personal-cms\config.php:133) in C:\xampp\htdocs\personal-cms\includes\functions.php on line 31
+2026-05-11 17:15:19 - Exception: Call to undefined function getSettings() in C:\xampp\htdocs\personal-cms\admin\project-add.php on line 13
+2026-05-11 17:15:23 - Exception: Call to undefined function getSettings() in C:\xampp\htdocs\personal-cms\admin\settings.php on line 34
+2026-05-11 17:15:25 - Exception: Call to undefined function getSettings() in C:\xampp\htdocs\personal-cms\admin\settings.php on line 34
+2026-05-11 17:16:12 - Exception: Call to undefined function getSettings() in C:\xampp\htdocs\personal-cms\admin\settings.php on line 34
+2026-05-11 17:16:39 - Error: [2] Use of undefined constant UPLOAD_DIR - assumed 'UPLOAD_DIR' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\personal-cms\includes\upload.php on line 29
+2026-05-11 17:16:39 - Error: [2] move_uploaded_file(UPLOAD_DIR/pages/6a01cfaf8c493.png): failed to open stream: No such file or directory in C:\xampp\htdocs\personal-cms\includes\upload.php on line 32
+2026-05-11 17:16:39 - Error: [2] move_uploaded_file(): Unable to move 'C:\xampp\tmp\php33DA.tmp' to 'UPLOAD_DIR/pages/6a01cfaf8c493.png' in C:\xampp\htdocs\personal-cms\includes\upload.php on line 32
+2026-05-11 17:16:52 - Exception: Call to undefined function getSettings() in C:\xampp\htdocs\personal-cms\admin\settings.php on line 34
+2026-05-11 17:28:16 - Error: [8] Undefined variable: pdo in C:\xampp\htdocs\personal-cms\projects.php on line 50
+2026-05-11 17:28:16 - Exception: Call to a member function prepare() on null in C:\xampp\htdocs\personal-cms\projects.php on line 50
+2026-05-11 17:28:52 - Error: [8] Undefined variable: pdo in C:\xampp\htdocs\personal-cms\projects.php on line 50
+2026-05-11 17:28:52 - Exception: Call to a member function prepare() on null in C:\xampp\htdocs\personal-cms\projects.php on line 50
+2026-05-11 17:29:36 - Error: [8] Undefined variable: pdo in C:\xampp\htdocs\personal-cms\projects.php on line 50
+2026-05-11 17:29:36 - Exception: Call to a member function prepare() on null in C:\xampp\htdocs\personal-cms\projects.php on line 50
+2026-05-11 17:29:39 - Error: [8] Undefined variable: pdo in C:\xampp\htdocs\personal-cms\projects.php on line 50
+2026-05-11 17:29:39 - Exception: Call to a member function prepare() on null in C:\xampp\htdocs\personal-cms\projects.php on line 50
+2026-05-11 17:29:40 - Error: [8] Undefined variable: pdo in C:\xampp\htdocs\personal-cms\projects.php on line 50
+2026-05-11 17:29:40 - Exception: Call to a member function prepare() on null in C:\xampp\htdocs\personal-cms\projects.php on line 50
+2026-05-11 17:33:59 - Error: [2] Use of undefined constant UPLOAD_DIR - assumed 'UPLOAD_DIR' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\personal-cms\includes\upload.php on line 29
+2026-05-11 17:33:59 - Error: [2] move_uploaded_file(UPLOAD_DIR/posts/6a01d3bf39717.png): failed to open stream: No such file or directory in C:\xampp\htdocs\personal-cms\includes\upload.php on line 32
+2026-05-11 17:33:59 - Error: [2] move_uploaded_file(): Unable to move 'C:\xampp\tmp\php1123.tmp' to 'UPLOAD_DIR/posts/6a01d3bf39717.png' in C:\xampp\htdocs\personal-cms\includes\upload.php on line 32
+2026-05-11 17:35:32 - Error: [2] Use of undefined constant UPLOAD_DIR - assumed 'UPLOAD_DIR' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\personal-cms\includes\upload.php on line 29
+2026-05-11 17:35:32 - Error: [2] move_uploaded_file(UPLOAD_DIR/posts/6a01d41cb5e15.jpg): failed to open stream: No such file or directory in C:\xampp\htdocs\personal-cms\includes\upload.php on line 32
+2026-05-11 17:35:32 - Error: [2] move_uploaded_file(): Unable to move 'C:\xampp\tmp\php7E6F.tmp' to 'UPLOAD_DIR/posts/6a01d41cb5e15.jpg' in C:\xampp\htdocs\personal-cms\includes\upload.php on line 32
+2026-05-11 17:38:14 - Error: [8] Undefined variable: pdo in C:\xampp\htdocs\personal-cms\post.php on line 16
+2026-05-11 17:38:14 - Exception: Call to a member function prepare() on null in C:\xampp\htdocs\personal-cms\post.php on line 16
+2026-05-11 17:38:18 - Error: [8] Undefined variable: pdo in C:\xampp\htdocs\personal-cms\post.php on line 16
+2026-05-11 17:38:18 - Exception: Call to a member function prepare() on null in C:\xampp\htdocs\personal-cms\post.php on line 16
+2026-05-11 17:39:29 - Error: [8] Undefined variable: pdo in C:\xampp\htdocs\personal-cms\post.php on line 16
+2026-05-11 17:39:29 - Exception: Call to a member function prepare() on null in C:\xampp\htdocs\personal-cms\post.php on line 16
+2026-05-11 17:39:40 - Error: [8] Undefined variable: pdo in C:\xampp\htdocs\personal-cms\blog.php on line 35
+2026-05-11 17:39:40 - Exception: Call to a member function prepare() on null in C:\xampp\htdocs\personal-cms\blog.php on line 35
+2026-05-11 17:43:56 - Error: [8] Undefined variable: pdo in C:\xampp\htdocs\personal-cms\404.php on line 47
+2026-05-11 17:43:56 - Exception: Call to a member function query() on null in C:\xampp\htdocs\personal-cms\404.php on line 47
+2026-05-11 17:44:08 - Error: [8] Undefined variable: pdo in C:\xampp\htdocs\personal-cms\404.php on line 47
+2026-05-11 17:44:08 - Exception: Call to a member function query() on null in C:\xampp\htdocs\personal-cms\404.php on line 47
+2026-05-11 17:44:09 - Error: [8] Undefined variable: pdo in C:\xampp\htdocs\personal-cms\404.php on line 47
+2026-05-11 17:44:09 - Exception: Call to a member function query() on null in C:\xampp\htdocs\personal-cms\404.php on line 47
+2026-05-11 17:44:10 - Error: [8] Undefined variable: pdo in C:\xampp\htdocs\personal-cms\404.php on line 47
+2026-05-11 17:44:10 - Exception: Call to a member function query() on null in C:\xampp\htdocs\personal-cms\404.php on line 47
+2026-05-11 17:44:35 - Error: [8] Undefined variable: pdo in C:\xampp\htdocs\personal-cms\404.php on line 48
+2026-05-11 17:44:35 - Exception: Call to a member function query() on null in C:\xampp\htdocs\personal-cms\404.php on line 48
+2026-05-11 17:44:37 - Error: [8] Undefined variable: pdo in C:\xampp\htdocs\personal-cms\404.php on line 48
+2026-05-11 17:44:37 - Exception: Call to a member function query() on null in C:\xampp\htdocs\personal-cms\404.php on line 48
+2026-05-11 17:44:37 - Error: [8] Undefined variable: pdo in C:\xampp\htdocs\personal-cms\404.php on line 48
+2026-05-11 17:44:37 - Exception: Call to a member function query() on null in C:\xampp\htdocs\personal-cms\404.php on line 48
+2026-05-11 17:44:37 - Error: [8] Undefined variable: pdo in C:\xampp\htdocs\personal-cms\404.php on line 48
+2026-05-11 17:44:37 - Exception: Call to a member function query() on null in C:\xampp\htdocs\personal-cms\404.php on line 48
+2026-05-11 17:50:17 - Error: [8] Undefined variable: pdo in C:\xampp\htdocs\personal-cms\projects.php on line 50
+2026-05-11 17:50:17 - Exception: Call to a member function prepare() on null in C:\xampp\htdocs\personal-cms\projects.php on line 50
+2026-05-11 17:53:16 - Error: [8] Undefined variable: pdo in C:\xampp\htdocs\personal-cms\page.php on line 17
+2026-05-11 17:53:16 - Exception: Call to a member function query() on null in C:\xampp\htdocs\personal-cms\page.php on line 17
+2026-05-11 17:56:25 - Error: [2] mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\personal-cms\page.php on line 172
+2026-05-11 19:02:05 - Error: [8] Undefined variable: theme in C:\xampp\htdocs\personal-cms\includes\header.php on line 40
+2026-05-11 19:02:05 - Error: [8] Undefined variable: site_description in C:\xampp\htdocs\personal-cms\includes\header.php on line 44
+2026-05-11 19:02:05 - Error: [8] Undefined variable: site_name in C:\xampp\htdocs\personal-cms\includes\header.php on line 45
+2026-05-11 19:02:05 - Error: [8] Undefined variable: site_name in C:\xampp\htdocs\personal-cms\includes\header.php on line 48
+2026-05-11 19:02:05 - Error: [8] Undefined variable: site_favicon in C:\xampp\htdocs\personal-cms\includes\header.php on line 57
+2026-05-11 19:02:05 - Error: [8] Undefined variable: site_logo in C:\xampp\htdocs\personal-cms\includes\header.php on line 71
+2026-05-11 19:02:05 - Error: [8] Undefined variable: site_name in C:\xampp\htdocs\personal-cms\includes\header.php on line 74
+2026-05-11 19:02:09 - Error: [8] Undefined variable: theme in C:\xampp\htdocs\personal-cms\includes\header.php on line 40
+2026-05-11 19:02:09 - Error: [8] Undefined variable: site_description in C:\xampp\htdocs\personal-cms\includes\header.php on line 44
+2026-05-11 19:02:09 - Error: [8] Undefined variable: site_name in C:\xampp\htdocs\personal-cms\includes\header.php on line 45
+2026-05-11 19:02:09 - Error: [8] Undefined variable: site_name in C:\xampp\htdocs\personal-cms\includes\header.php on line 48
+2026-05-11 19:02:09 - Error: [8] Undefined variable: site_favicon in C:\xampp\htdocs\personal-cms\includes\header.php on line 57
+2026-05-11 19:02:09 - Error: [8] Undefined variable: site_logo in C:\xampp\htdocs\personal-cms\includes\header.php on line 71
+2026-05-11 19:02:09 - Error: [8] Undefined variable: site_name in C:\xampp\htdocs\personal-cms\includes\header.php on line 74
+[11-May-2026 19:27:59 Asia/Tehran] PHP Warning:  Use of undefined constant BASE_PATH - assumed 'BASE_PATH' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\personal-cms\config.php on line 35
+[11-May-2026 19:27:59 Asia/Tehran] PHP Notice:  Constant BACKUP_PATH already defined in C:\xampp\htdocs\personal-cms\config.php on line 44
+[11-May-2026 19:27:59 Asia/Tehran] PHP Warning:  Use of undefined constant BASE_PATH - assumed 'BASE_PATH' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\personal-cms\config.php on line 35
+[11-May-2026 19:27:59 Asia/Tehran] PHP Notice:  Constant BACKUP_PATH already defined in C:\xampp\htdocs\personal-cms\config.php on line 44
+[11-May-2026 19:28:00 Asia/Tehran] PHP Warning:  Use of undefined constant BASE_PATH - assumed 'BASE_PATH' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\personal-cms\config.php on line 35
+[11-May-2026 19:28:00 Asia/Tehran] PHP Notice:  Constant BACKUP_PATH already defined in C:\xampp\htdocs\personal-cms\config.php on line 44
+[11-May-2026 19:28:00 Asia/Tehran] PHP Warning:  Use of undefined constant BASE_PATH - assumed 'BASE_PATH' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\personal-cms\config.php on line 35
+[11-May-2026 19:28:00 Asia/Tehran] PHP Notice:  Constant BACKUP_PATH already defined in C:\xampp\htdocs\personal-cms\config.php on line 44
+[11-May-2026 19:28:01 Asia/Tehran] PHP Warning:  Use of undefined constant BASE_PATH - assumed 'BASE_PATH' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\personal-cms\config.php on line 35
+[11-May-2026 19:28:01 Asia/Tehran] PHP Notice:  Constant BACKUP_PATH already defined in C:\xampp\htdocs\personal-cms\config.php on line 44
+2026-05-11 21:05:31 - Error: [8] Undefined variable: project in C:\xampp\htdocs\personal-cms\admin\projects.php on line 31
+2026-05-11 21:05:31 - Error: [8] Trying to access array offset on value of type null in C:\xampp\htdocs\personal-cms\admin\projects.php on line 31
+2026-05-11 21:05:33 - Error: [8] Undefined variable: featured_image in C:\xampp\htdocs\personal-cms\admin\project-edit.php on line 179
+2026-05-11 21:06:11 - Error: [8] Undefined variable: featured_image in C:\xampp\htdocs\personal-cms\admin\project-edit.php on line 179
+2026-05-11 21:06:14 - Error: [8] Undefined variable: featured_image in C:\xampp\htdocs\personal-cms\admin\project-edit.php on line 179
+2026-05-11 21:07:14 - Error: [8] Undefined variable: project in C:\xampp\htdocs\personal-cms\admin\projects.php on line 31
+2026-05-11 21:07:14 - Error: [8] Trying to access array offset on value of type null in C:\xampp\htdocs\personal-cms\admin\projects.php on line 31
+2026-05-11 21:07:15 - Error: [8] Undefined variable: project in C:\xampp\htdocs\personal-cms\admin\projects.php on line 31
+2026-05-11 21:07:15 - Error: [8] Trying to access array offset on value of type null in C:\xampp\htdocs\personal-cms\admin\projects.php on line 31
+2026-05-11 21:07:22 - Error: [8] Undefined variable: project in C:\xampp\htdocs\personal-cms\admin\projects.php on line 31
+2026-05-11 21:07:22 - Error: [8] Trying to access array offset on value of type null in C:\xampp\htdocs\personal-cms\admin\projects.php on line 31
+2026-05-11 21:08:21 - Error: [2] require_once(../templates/admin-header.php): failed to open stream: No such file or directory in C:\xampp\htdocs\personal-cms\project.php on line 30
+[11-May-2026 21:08:21 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required '../templates/admin-header.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\personal-cms\project.php on line 30
+2026-05-11 21:08:22 - Error: [2] require_once(../templates/admin-header.php): failed to open stream: No such file or directory in C:\xampp\htdocs\personal-cms\project.php on line 30
+[11-May-2026 21:08:22 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required '../templates/admin-header.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\personal-cms\project.php on line 30
+2026-05-11 21:08:34 - Error: [2] require_once(../templates/admin-header.php): failed to open stream: No such file or directory in C:\xampp\htdocs\personal-cms\project.php on line 30
+[11-May-2026 21:08:34 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required '../templates/admin-header.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\personal-cms\project.php on line 30
+2026-05-11 21:08:35 - Error: [2] require_once(../templates/admin-header.php): failed to open stream: No such file or directory in C:\xampp\htdocs\personal-cms\project.php on line 30
+[11-May-2026 21:08:35 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required '../templates/admin-header.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\personal-cms\project.php on line 30

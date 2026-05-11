@@ -1,0 +1,18 @@
+RewriteEngine On
+RewriteBase /personal-cms/
+
+# Remove trailing slash
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)/$ /personal-cms/$1 [L,R=301]
+
+# Pretty URLs
+RewriteRule ^project/([a-zA-Z0-9_-]+)$ project.php?slug=$1 [QSA,L]
+RewriteRule ^blog/([a-zA-Z0-9_-]+)$ post.php?slug=$1 [QSA,L]
+RewriteRule ^page/([a-zA-Z0-9_-]+)$ page.php?slug=$1 [QSA,L]
+RewriteRule ^blog$ blog.php [L]
+RewriteRule ^projects$ projects.php [L]
+RewriteRule ^sitemap\.xml$ sitemap.php [L]
+RewriteRule ^robots\.txt$ robots.php [L]
+
+# Block access to sensitive directories
+RewriteRule ^(includes|logs|backups|config\.php) - [F,L]

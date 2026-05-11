@@ -1,0 +1,21 @@
+# ==============================================
+# FILE: admin/.htaccess
+# ==============================================
+
+# Additional password protection for admin (optional - uncomment to enable)
+# AuthType Basic
+# AuthName "Admin Access"
+# AuthUserFile /home/username/.htpasswd
+# Require valid-user
+
+# Block access to .php files in uploads (if any)
+<FilesMatch "\.php$">
+    Order Deny,Allow
+    Deny from all
+</FilesMatch>
+
+# Allow PHP files in admin directory
+<FilesMatch "^(index|login|logout|pages|posts|categories|projects|seo|settings|backup|cache-clear|logs-viewer|deploy-checklist|sync-manual|page-add|page-edit|post-add|post-edit|project-add|project-edit)\.php$">
+    Order Allow,Deny
+    Allow from all
+</FilesMatch>

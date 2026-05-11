@@ -1,0 +1,10 @@
+# ==============================================
+# FILE: logs/.htaccess
+# ==============================================
+
+# Deny access to all files in logs directory
+Order Deny,Allow
+Deny from all
+
+# Allow access only from localhost (optional)
+# Allow from 127.0.0.1

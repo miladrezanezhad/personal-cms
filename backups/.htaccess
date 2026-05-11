@@ -1,0 +1,10 @@
+# ==============================================
+# FILE: backups/.htaccess
+# ==============================================
+
+# Deny access to all files in backups directory
+Order Deny,Allow
+Deny from all
+
+# Optional: Allow downloads via admin only
+# Access is controlled by admin/backup.php
